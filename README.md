@@ -1,4 +1,4 @@
-# Hospital Appointy
+# Hospital Appointment
 
 This is a Hospital Online Booking Appointment Application.
 
